@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software Technology**
 
-- 👯 All of my projects are available at [here](https://github.com/khanh1908/khanh1908/blob/main/README.md)
+- 👯 All of my projects are available at [here](https://github.com/khanh1908?tab=repositories)
 
 - 📫 How to reach me **pkhanh494@gmail.com**
 

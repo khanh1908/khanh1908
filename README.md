@@ -1,11 +1,26 @@
+<a href="#"><img width="100%" height="280px" src="./image/header.jpeg"/></a>
 <h1 align="center">Hi 👋, I'm Phạm Văn Khánh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanh1908&label=Profile%20views&color=0e75b6&style=flat" alt="khanh1908" /> </p>
+# Khanh1908
+- Hi ! My name is Phạm Văn Khánh. I'm from Viet Nam.
+- A passionate Software Technology from VietNam.
+- I'm a newbie to the programming world & working as a newbie developer.
+- Nice to meet you Thank you for being here.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanh1908" alt="khanh1908" /></a> </p>
+- 🔭 I was born and grown up in [Mountains and forests of the Central Highlands](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%AFk_L%E1%BA%AFk)
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **Software Technology**
+
+- 👯 All of my projects are available at [here](https://github.com/khanh1908/khanh1908/blob/main/README.md)
+
+- 📫 How to reach me **pkhanh494@gmail.com**
+
+- Connect with me:<p align="left">
+
+<a href = "https://github.com/khanh1908"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.facebook.com/second1908/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/khanh_19801/?hl=vi"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 <p align="left">
 </p>
 

@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="280px" src="./image/header.jpeg"/></a>
-<h1 align="center">Hi 👋, I'm Phạm Văn Khánh</h1>
+<h1 align="center">Hi 👋, I'm Pham Van Khanh</h1>
 
 # Khanh1908
-- Hi ! My name is Phạm Văn Khánh. I'm from Viet Nam.
+- Hi ! My name is Pham Van Khanh. I'm from Viet Nam.
 - A passionate Software Technology from VietNam.
 - I'm a newbie to the programming world & working as a newbie developer.
 - Nice to meet you Thank you for being here.
